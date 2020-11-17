@@ -1,0 +1,8 @@
+# Ignore all Python and Jupyter cache files
+.ipynb_checkpoints
+__pycache__
+apicache-py3
+debug.log
+
+# Maintain the directory structure
+!.gitkeep
