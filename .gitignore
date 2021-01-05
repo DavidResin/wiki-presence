@@ -4,5 +4,8 @@ __pycache__
 apicache-py3
 debug.log
 
+# Ignore all data files
+Test/pickles/*
+
 # Maintain the directory structure
 !.gitkeep
