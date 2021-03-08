@@ -5,7 +5,9 @@ apicache-py3
 debug.log
 
 # Ignore all data files
-Test/pickles/*
+Exploration/csv/*
+Exploration/graphs/*
+Exploration/pickles/*
 
 # Maintain the directory structure
 !.gitkeep
